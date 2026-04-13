@@ -12,5 +12,3 @@
 * The Fractal Organization Manual, How to diagnose & design organisations using the Viable System Model, Patrick Hoverstadt
 * Wholehearted: Engaging with Complexity in the Deliberately Adaptive Organization
 
-
-  
